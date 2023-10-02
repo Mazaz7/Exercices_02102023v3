@@ -14,5 +14,3 @@ except requests.exceptions.RequestException as e:
 except Exception as e:
     print(f"An unexpected error occurred: {e}")
 "What is this change"
-"So much changes"
-"Des nouveaux changements"
